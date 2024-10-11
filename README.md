@@ -29,7 +29,7 @@ Le site utilise les technologies suivantes :
 1. **Télécharger les fichiers** : Clonez ou téléchargez l'archive du projet et extrayez-la dans le répertoire de votre serveur local.
    
    ```bash
-   git clone https://github.com/username/departement-genie-electrique.git
+   git clone https://github.com/username/departement-genie-electrique.git](https://github.com/yacerak/ese-dpt.git
    ```
 
 2. **Configurer les liens internes** : Assurez-vous que les liens dans les fichiers HTML pointent correctement vers les pages et fichiers CSS/JS.
